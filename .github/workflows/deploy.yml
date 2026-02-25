@@ -2,12 +2,14 @@ name: Build Modpack Zip
 
 on:
   push:
-    branches: [ main ]
+   branches: [ main ]
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -19,8 +21,11 @@ jobs:
             -x "*.git*" \
                ".github/*"
 
-      - name: Upload zip artifact
-        uses: actions/upload-artifact@v4
+      - name: Create Release + Upload Asset
+        uses: softprops/action-gh-release@v2
         with:
-          name: modpack
-          path: modpack.zip
+          tag_name: latest
+          name: Latest Modpack Build
+          files: modpack.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
