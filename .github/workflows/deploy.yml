@@ -2,7 +2,7 @@ name: Build Modpack Zip
 
 on:
   push:
-   branches: [ main ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -19,13 +19,17 @@ jobs:
         run: |
           zip -r modpack.zip . \
             -x "*.git*" \
-               ".github/*"
+               ".github/*" \
+               "modpack.zip" # Don't zip the zip!
 
-      - name: Create Release + Upload Asset
+      - name: Create Release + Upload Assets
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
           name: Latest Modpack Build
-          files: modpack.zip
+          files: |
+            modpack.zip
+            manifest.json
+          force_update: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
