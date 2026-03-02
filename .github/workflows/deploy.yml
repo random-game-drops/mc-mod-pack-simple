@@ -20,16 +20,22 @@ jobs:
           zip -r modpack.zip . \
             -x "*.git*" \
                ".github/*" \
-               "modpack.zip" # Don't zip the zip!
+               "modpack.zip"
 
-      - name: Create Release + Upload Assets
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: latest
-          name: Latest Modpack Build
-          files: |
-            modpack.zip
-            manifest.json
-          force_update: true
+      - name: Create or Update Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Create the release if it doesn't exist, or just use it if it does
+          gh release delete latest --yes || true
+          git tag -d latest || true
+          git tag latest
+          git push origin latest --force
+
+          # Upload modpack.zip (default binary type)
+          # Upload manifest.json with EXPLICIT application/json type
+          gh release create latest \
+            --title "Latest Modpack Build" \
+            --notes "Automated build of the modpack." \
+            "modpack.zip" \
+            "manifest.json#application/json"
