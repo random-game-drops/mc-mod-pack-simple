@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","file/FA+Player-v1.0.zip"]

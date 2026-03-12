@@ -15,7 +15,9 @@
         "sha1": "fa686304c63efea0456af91a0b6352f032e61e66",
         "sha512": "55b5ade20dc70e8c9a0f7b6a8ba835d49efd3c4f8360869d6551f13e3a016c44dd78c5ecad638903172898154187726d429ad34a14cea30abfa8bd6d61eb6287"
       },
-      "downloads": ["https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar"
+      ],
       "fileSize": 1869752
     },
     {
@@ -24,7 +26,9 @@
         "sha1": "50de67eb221f0b38216da8668b09ca311327040e",
         "sha512": "c20c017e23d6d2774690d0dd774cec84c16bfac5461da2d9345a1cd95eee495b1954333c421e3d1c66186284d24a433f6b0cced8021f62e0bfa617d2384d0471"
       },
-      "downloads": ["https://cdn.modrinth.com/data/P7dR8mSH/versions/i5tSkVBH/fabric-api-0.141.3%2B1.21.11.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/i5tSkVBH/fabric-api-0.141.3%2B1.21.11.jar"
+      ],
       "fileSize": 2412693
     },
     {
@@ -33,7 +37,9 @@
         "sha1": "af9caac1081738b5c682cd8cd72ee4644cce9607",
         "sha512": "89aac07146c8204e705662010589c60b4e8fdf07cabc254e5901116edc95da40448d4a49abfdf179883512c83c7909b7ba02e767cde49cb44b69e1e58c793041"
       },
-      "downloads": ["https://cdn.modrinth.com/data/MBAkmtvl/versions/sbE6e5Gh/balm-fabric-1.21.11-21.11.6.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/sbE6e5Gh/balm-fabric-1.21.11-21.11.6.jar"
+      ],
       "fileSize": 861882
     },
     {
@@ -42,7 +48,9 @@
         "sha1": "5aa90650606a2970e4eedc6c83fdeafe6088a0bd",
         "sha512": "2ea984ec170098ff7473ccbabf3b9274c26c563b84e5708639f86c2761d29deb08cca02fe84c7c40c1404b6f0da9e67aafe6782f8fa7533fe4190201af724dc4"
       },
-      "downloads": ["https://cdn.modrinth.com/data/LOpKHB2A/versions/eK2mcF5B/waystones-fabric-1.21.11-21.11.8.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/LOpKHB2A/versions/eK2mcF5B/waystones-fabric-1.21.11-21.11.8.jar"
+      ],
       "fileSize": 932677
     },
     {
@@ -51,7 +59,9 @@
         "sha1": "4cb5a1d9121f7b1cd03fd17e901c002ba9cac62b",
         "sha512": "8790be4aa5af58acf4080f88204c6a0558d99780687d9c54d1827960dd6b49a23da9e3e14e680cb4636f58495c19f317d2f445460990b132e05056d1cedccc3b"
       },
-      "downloads": ["https://cdn.modrinth.com/data/1bokaNcj/versions/avSqR3vF/xaerominimap-fabric-1.21.11-25.3.10.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/avSqR3vF/xaerominimap-fabric-1.21.11-25.3.10.jar"
+      ],
       "fileSize": 2151166
     },
     {
@@ -60,7 +70,9 @@
         "sha1": "8c56782923d72208e751689d7edd907e59a04706",
         "sha512": "8354602f8be0ba85d017096d5de871cea0062fb126b71c4f237d2d047b99f7b93e79a08357917c41d3cc80a0d29075ce2212ac4e7902828fc65e8913c619b092"
       },
-      "downloads": ["https://cdn.modrinth.com/data/EltpO5cN/versions/YGHOIQfA/lootr-fabric-1.21.11-1.20.34.101.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/EltpO5cN/versions/YGHOIQfA/lootr-fabric-1.21.11-1.20.34.101.jar"
+      ],
       "fileSize": 1012717
     },
     {
@@ -69,7 +81,9 @@
         "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
         "sha512": "8f455489d4b71069e998568cf4e1450116f4360a4eb481cd89117f629c6883164886cf63ca08ac4fc929dd13d1112152755a6216d4a1498ee6406ef102093e51"
       },
-      "downloads": ["https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar"
+      ],
       "fileSize": 1148427
     },
     {
@@ -78,7 +92,9 @@
         "sha1": "5baf520ec1e69210ee430a8413a6493cc402764d",
         "sha512": "acdd14f068a1751ec9e9baa4c6febc1a807a522ada80c2d999abf07e4a5693892fc92497f13043fbb7fc6e04c1eb42fb59a364a6ef813302f60833355a489c2e"
       },
-      "downloads": ["https://cdn.modrinth.com/data/ccKDOlHs/versions/33Ei8Thm/owo-lib-0.13.0%2B1.21.11.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/ccKDOlHs/versions/33Ei8Thm/owo-lib-0.13.0%2B1.21.11.jar"
+      ],
       "fileSize": 2254955
     },
     {
@@ -87,7 +103,9 @@
         "sha1": "09cca41971985fb9e137186bee6f4e23ec42a8f0",
         "sha512": "fee86a3aca2bbb97f7c45926c1e6c1a5366f6f15242133bfe1a1f55bba8ef0f63dea092da1f61bfebd1ae448a05c2ba94ba61a349aa4ab61d990020d6a855154"
       },
-      "downloads": ["https://cdn.modrinth.com/data/tpehi7ww/versions/rJ0Y6xDT/dungeons-and-taverns-v5.1.0.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/tpehi7ww/versions/rJ0Y6xDT/dungeons-and-taverns-v5.1.0.jar"
+      ],
       "fileSize": 38916351
     },
     {
@@ -96,7 +114,9 @@
         "sha1": "41cd2e142e48a8b6604d85764a6466fe5edb70c3",
         "sha512": "e3fec3a07fd2a39af287cfa682f531913a6b82af5c23b60a231e8586ed1c5b1d2857f6714fa069315a1d7366c0d148d167178a9531b59629d488eb1cace6c97e"
       },
-      "downloads": ["https://cdn.modrinth.com/data/8BmcQJ2H/versions/G1BvHQDL/geckolib-fabric-1.21.11-5.4.5.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/G1BvHQDL/geckolib-fabric-1.21.11-5.4.5.jar"
+      ],
       "fileSize": 822664
     },
     {
@@ -105,7 +125,9 @@
         "sha1": "95995c0abe13cab9f310bb44d925988525f2f382",
         "sha512": "8e4171672e2631d7e11bdfb543079f3a9c4a7afe6c53478e25ad22f035e64031119543a65a06343c981323a1b7ee5847d6cf41ef1fa3eff10036a8cf180bde82"
       },
-      "downloads": ["https://cdn.modrinth.com/data/lOOpEntO/versions/8Nzs7ztr/attributefix-fabric-1.21.11-21.11.1.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/lOOpEntO/versions/8Nzs7ztr/attributefix-fabric-1.21.11-21.11.1.jar"
+      ],
       "fileSize": 21574
     },
     {
@@ -114,7 +136,9 @@
         "sha1": "ba448b0b274abd54ad24332055fbb1cdc66e43c0",
         "sha512": "4643cb5bae5c108eb18fac2270e85ea0adcfe5201f188dcd26a1c14129b7dde7c89bfadf9ab6fe0a048b7e05f39217e969548c1f5c1d212c86abbaec7203a3c3"
       },
-      "downloads": ["https://cdn.modrinth.com/data/aaRl8GiW/versions/fgUon9A6/prickle-fabric-1.21.11-21.11.1.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/aaRl8GiW/versions/fgUon9A6/prickle-fabric-1.21.11-21.11.1.jar"
+      ],
       "fileSize": 87236
     },
     {
@@ -123,7 +147,9 @@
         "sha1": "2a5b25b4f3b48d5d08522b544c75b10c16a761c7",
         "sha512": "65fed1a464034585adf664a33de17c06fb78c76c10b9042cf04d7c66fcc52f4401518af15d83a0f19b1735223b566e80488b4d33af5aa053b28c88e806f1867b"
       },
-      "downloads": ["https://cdn.modrinth.com/data/nfn13YXA/versions/zwCdgCLz/RoughlyEnoughItems-21.11.814-fabric.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/nfn13YXA/versions/zwCdgCLz/RoughlyEnoughItems-21.11.814-fabric.jar"
+      ],
       "fileSize": 2469337
     },
     {
@@ -132,7 +158,9 @@
         "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
         "sha512": "7ca532844a0ed3d35e8515e13d1e84f8eadfceaae93281b79ad6b4dac253f4634e3dfcc7592f9543871dec117e1a3092c196ba5eae33735162de223be19dc4ad"
       },
-      "downloads": ["https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar"
+      ],
       "fileSize": 568474
     },
     {
@@ -141,7 +169,9 @@
         "sha1": "17ba8126f1953fc9eb059ca8c82b5b72b3f907d3",
         "sha512": "c3f7f8e3f74aa8e20b537bc255b4b196fdb1b1cc714e6b6d4775251b01a810aaa9704845a525f96461db80eca8d0da1ec79fb2c24c95e5335b9c15a056219ddb"
       },
-      "downloads": ["https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AAR2TTo3/chat_heads-1.2.1-fabric-1.21.11.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AAR2TTo3/chat_heads-1.2.1-fabric-1.21.11.jar"
+      ],
       "fileSize": 92750
     },
     {
@@ -150,7 +180,9 @@
         "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
         "sha512": "507ab10b7938dcd14d33121b8462649bdbe575cef248e917dfdf7566078ab5d0195ca1add95eae4863de3f652eb56db0a8669a67d5b5344e094d086f9dab5a08"
       },
-      "downloads": ["https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar"
+      ],
       "fileSize": 268662
     },
     {
@@ -159,7 +191,9 @@
         "sha1": "632c7565ba0fbc033aa4574e1ae6919f277fe03b",
         "sha512": "27cc0fd2c9426e8eba70f96b9d31e6dd756819cc44338b8948167e93fb6e22416d10d2e8c63f7c689c2aca2c27bdb6864d974b92e3f79b3027d23eee1bfbdb2e"
       },
-      "downloads": ["https://cdn.modrinth.com/data/mOgUt4GM/versions/JWQVh32x/modmenu-17.0.0-beta.2.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/JWQVh32x/modmenu-17.0.0-beta.2.jar"
+      ],
       "fileSize": 1115052
     },
     {
@@ -168,7 +202,9 @@
         "sha1": "9a4dd8518bbad9e6be9edd443cfc6da74b1bb26b",
         "sha512": "ca4d3c2a37c1206ac40a825f528dafeaae98bc7cb4d17f1e8b2d427df8b4b106790baaeda60a7d7462784661508fb8278074731a67224bba994a6b52672790a6"
       },
-      "downloads": ["https://cdn.modrinth.com/data/YL57xq9U/versions/TSXvi2yD/iris-fabric-1.10.6%2Bmc1.21.11.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/TSXvi2yD/iris-fabric-1.10.6%2Bmc1.21.11.jar"
+      ],
       "fileSize": 2805791
     },
     {
@@ -177,8 +213,208 @@
         "sha1": "ff88b8f04532202d2dcc7d4919bae648b1d7fbe8",
         "sha512": "3eb12225c10825d4887c2e915b2a331be09b6eac4a75ccc320767542c92633d11bc6a8a63cb2b28bbf062c102e4ec50000d3082892e00328044d6225b1836f65"
       },
-      "downloads": ["https://cdn.modrinth.com/data/NcUtCpym/versions/CkZVhVE0/xaeroworldmap-fabric-1.21.11-1.40.11.jar"],
+      "downloads": [
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/CkZVhVE0/xaeroworldmap-fabric-1.21.11-1.40.11.jar"
+      ],
       "fileSize": 1434362
+    },
+    {
+      "path": "mods/shareenderchest-2.0.3.jar",
+      "hashes": {
+        "sha1": "746811e758ddc7f0a940b9b8c0a0f424326d4b05",
+        "sha512": "2f73a74db192169ec4d8968fc87069ff0efa3cd56976db4aae74261af6bc16d6599daf89984b3b406ede3ff63a68bd2b291c819e84461de833bec37d9f10f3fd"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/3D8J5fZB/versions/wEAtw0ZZ/shareenderchest-2.0.3.jar"
+      ],
+      "fileSize": 38570
+    },
+    {
+      "path": "mods/shareenderchest-2.0.3.jar",
+      "hashes": {
+        "sha1": "746811e758ddc7f0a940b9b8c0a0f424326d4b05",
+        "sha512": "2f73a74db192169ec4d8968fc87069ff0efa3cd56976db4aae74261af6bc16d6599daf89984b3b406ede3ff63a68bd2b291c819e84461de833bec37d9f10f3fd"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/3D8J5fZB/versions/wEAtw0ZZ/shareenderchest-2.0.3.jar"
+      ],
+      "fileSize": 38570
+    },
+    {
+      "path": "mods/trinkets-3.11.1.jar",
+      "hashes": {
+        "sha1": "9fc6898732cd60e165bda619c473217bbd28fefe",
+        "sha512": "afe5f667b548db73c15bfc098445bd993b8154102eb832a0fef15c2cdc5e4ec64ad6b8d60cd82693ae646afcc3194d893686a88a0007bd55cfa87f555ccf720d"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nH02ielQ/versions/LI34xEqN/trinkets-3.11.1.jar"
+      ],
+      "fileSize": 283266
+    },
+    {
+      "path": "mods/Minecraft-Elytra-Trinket-1.0.11.jar",
+      "hashes": {
+        "sha1": "25beb850e1512bb0e9624ef4737c97bde74c7b5c",
+        "sha512": "7c076fff509048cd3ca56ad4b86c0dd007b92094c01097fea6d3243a37207badc93307a18f31f5a08571f2efc16b658a746db27544659ee15a69484c4fc0f894"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/wk57PrDM/versions/1UsvHIFN/Minecraft-Elytra-Trinket-1.0.11.jar"
+      ],
+      "fileSize": 13507
+    },
+    {
+      "path": "mods/entity_model_features_1.21.11-fabric-3.0.12.jar",
+      "hashes": {
+        "sha1": "047820c78e7ca8c4ba60eab337c891375612d9ac",
+        "sha512": "dd5aff62902ed639d8a22db9a3976528a3fd8a90dd6fdfdc4ae1c2a6f17be48545276ed7128688d8bad5e3685c414a847f17d6b9a21c592ed79235fc3e5d9fae"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/uvlfzqyo/entity_model_features_1.21.11-fabric-3.0.12.jar"
+      ],
+      "fileSize": 511306
+    },
+    {
+      "path": "mods/entity_texture_features_1.21.11-fabric-7.0.9.jar",
+      "hashes": {
+        "sha1": "5e553413076d4ee587ea1c7aae62a328d3856598",
+        "sha512": "8485a8cfc4567b768af525a3000420fddf607a8a484a10199cf7ffea60f10357d9c605353a8c11c54e8a72a92388214dcf4b64992caad84e8f5c5dda993e8e82"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/3uFr0jys/entity_texture_features_1.21.11-fabric-7.0.9.jar"
+      ],
+      "fileSize": 727129
+    },
+    {
+      "path": "mods/comforts-fabric-14.0.2+1.21.11.jar",
+      "hashes": {
+        "sha1": "41365e7d2e06f4397a4e16a30184b9a79e20d32e",
+        "sha512": "b80100877031245a00d834954319d614837ad46d248c073001c00dd0d6d453a327ff9ae8ab71c46ac45e5280427e351e594f3b2ce24a8c0714df2b10f479f9ef"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SaCpeal4/versions/OPABkLvU/comforts-fabric-14.0.2%2B1.21.11.jar"
+      ],
+      "fileSize": 958676
+    },
+    {
+      "path": "mods/trashslot-fabric-1.21.11-21.11.4.jar",
+      "hashes": {
+        "sha1": "0892a937c8311a35b254faba9db7b5b5001803b6",
+        "sha512": "9bc79b2b81735c764a9dcf72544decb6fccb08070ca2c0b73a3f8d3d9e16611fa66969cdfeeb68924f23c00c8214c19996fa8258499cfb2377cf7b66d2387aa1"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/vRYk0bv7/versions/h27RWnjv/trashslot-fabric-1.21.11-21.11.4.jar"
+      ],
+      "fileSize": 80290
+    },
+    {
+      "path": "mods/craftingtweaks-fabric-1.21.11-21.11.4.jar",
+      "hashes": {
+        "sha1": "10b79a4661d6f361964d1cd750f9c2ec4e81e338",
+        "sha512": "6e951ac5c28bd57122c87ec629bab09df31558729003b97c14aacf8290beffbcd7d0ce6cb5c58d70680dab62b9ce5b23b11799656ec2889e5aebbf3632c147fe"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DMu0oBKf/versions/Z8BzLi5v/craftingtweaks-fabric-1.21.11-21.11.4.jar"
+      ],
+      "fileSize": 259657
+    },
+    {
+      "path": "mods/cardinal-components-api-7.3.1.jar",
+      "hashes": {
+        "sha1": "4ce70bf88e3bc4a0b1a072019d0964122f3180a3",
+        "sha512": "987497d5c598813544cd89df2651155abddcc881c0b73fc3fed4514d5a9666e608701a37ec9be565f9fd70514ac3e22b1d162d5b82200f620da0cc5742cca4ff"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/K01OU20C/versions/O2RJYZwD/cardinal-components-api-7.3.1.jar"
+      ],
+      "fileSize": 235011
+    },
+    {
+      "path": "mods/travelersbackpack-fabric-1.21.11-10.11.5.jar",
+      "hashes": {
+        "sha1": "0ea75beffe3940da3e515acccb00715cda1227a0",
+        "sha512": "06ce904071582935bfb206fd071fcd20e968edb72a151ab677c6763b85497c19327ff5d24575ceaec510a517fb14f05bda660cfdf06cea3f5d6b9ff28fd9a903"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/rlloIFEV/versions/jDSDEMgY/travelersbackpack-fabric-1.21.11-10.11.5.jar"
+      ],
+      "fileSize": 1498054
+    },
+    {
+      "path": "mods/GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+      "hashes": {
+        "sha1": "5c3d6333ff8c50d4b5c16c9185e020d8afcb4988",
+        "sha512": "b0ea73e94647e5038a0a21f23357226a8767379e93a81c16bbfd8f87dead3ddeb768fc13bd557e94bb8f5e9b5c7e494fdc4f05d504227ba70af0ea4e6dd51187"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/s3dmwKy5/versions/CO7NeLTt/GlitchCore-fabric-1.21.11-21.11.0.4.jar"
+      ],
+      "fileSize": 342702
+    },
+    {
+      "path": "mods/TerraBlender-fabric-1.21.11-21.11.0.0.jar",
+      "hashes": {
+        "sha1": "e4bd1aee6bc8c56ae77647a06f31a3bd981962a6",
+        "sha512": "05bed03e80351e7795cfbe1a9375e54a8a326552379737d8e5dcd400c4a36fefdf57f18468b95121556576d1ef549aa397a638114acd30eab69342d86b576814"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kkmrDlKT/versions/chxo508B/TerraBlender-fabric-1.21.11-21.11.0.0.jar"
+      ],
+      "fileSize": 341308
+    },
+    {
+      "path": "mods/BiomesOPlenty-fabric-1.21.11-21.11.0.31.jar",
+      "hashes": {
+        "sha1": "5da3900166ab30ae141e5c85f24d9e690a7968b6",
+        "sha512": "d7cb092eaf51a8c3e96d1a03c4e5a6c33a1e577d7e046259a8f8995d7d54133b0042a87a9aa475150792177136e7267854706329fdcfe21995ad6c14ce23f100"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/HXF82T3G/versions/wfaWqpie/BiomesOPlenty-fabric-1.21.11-21.11.0.31.jar"
+      ],
+      "fileSize": 23041447
+    },
+    {
+      "path": "mods/reliable-recipe-viewer-6.6.2+1.21.11-fabric.jar",
+      "hashes": {
+        "sha1": "b057d1d3c0cd8312cc141f5b16b5e799cbc7cc11",
+        "sha512": "75f1adbf7c279192f00958602a6fa41db8fdf8449c677d04a1807d077e3b797c35c07a0918166b60fdbaf2cb5258dccfdaf1c189ff012999445c99be213e4e2d"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5VolwT6c/versions/5rHKvHSm/reliable-recipe-viewer-6.6.2%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 543072
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.11-3.4.9+refabricated.jar",
+      "hashes": {
+        "sha1": "7c51a74bed32f4c55a22cc87690109c9379c682e",
+        "sha512": "732255187fdb84f71a5e22cb331d068a1a513e51c90e5970f2d31c424973dda3c2c16da49b02df582e23f5af9b8080bef79ef8e627b8ede6ddfcaddccaf245da"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7vxePowz/versions/ZP4Uof9C/FarmersDelight-1.21.11-3.4.9%2Brefabricated.jar"
+      ],
+      "fileSize": 3223675
+    },
+    {
+      "path": "mods/polymer-bundled-0.15.2+1.21.11.jar",
+      "hashes": {
+        "sha1": "d6fb4141f437d565bd9a6a218c0742f28a0bc5ba",
+        "sha512": "9c205ab398c324ee4dc376269d8aa5df64d11766b6418952a64d2df94f096e665f63eae0c4f0c66e22d03c6ff6767550d1777c28485340131e6556091199062a"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/xGdtZczs/versions/wugBT1fU/polymer-bundled-0.15.2%2B1.21.11.jar"
+      ],
+      "fileSize": 1485870
+    },
+    {
+      "path": "mods/graves-3.10.2+1.21.11.jar",
+      "hashes": {
+        "sha1": "257d9a314095456301a1a6a888d43d19c8435f1c",
+        "sha512": "62b4e92a9f93585d65a4ef4965472a55f9c180cbc946d4f08ad1f801c59e967a0123b5b3fc6f444504f1088026c0eca65f9d530adee64721ea85ff7c8cc7eca8"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yn9u3ypm/versions/rZeFZ5ip/graves-3.10.2%2B1.21.11.jar"
+      ],
+      "fileSize": 825025
     }
   ]
 }
