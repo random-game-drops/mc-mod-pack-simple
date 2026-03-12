@@ -1,0 +1,241 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "1.0.1",
+  "name": "Simple Modpack",
+  "summary": "Simple modpack focuses on QOL and fun",
+  "files": [
+     {
+      "id": "VbIDhnyj",
+      "hashes": {
+        "sha512": "55b5ade20dc70e8c9a0f7b6a8ba835d49efd3c4f8360869d6551f13e3a016c44dd78c5ecad638903172898154187726d429ad34a14cea30abfa8bd6d61eb6287",
+        "sha1": "fa686304c63efea0456af91a0b6352f032e61e66"
+      },
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar",
+      "filename": "sodium-fabric-0.8.6+mc1.21.11.jar",
+      "primary": true,
+      "size": 1869752,
+      "file_type": null
+    },
+    {
+      "id": "9ZqmtMSv",
+      "hashes": {
+        "sha512": "c20c017e23d6d2774690d0dd774cec84c16bfac5461da2d9345a1cd95eee495b1954333c421e3d1c66186284d24a433f6b0cced8021f62e0bfa617d2384d0471",
+        "sha1": "50de67eb221f0b38216da8668b09ca311327040e"
+      },
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/i5tSkVBH/fabric-api-0.141.3%2B1.21.11.jar",
+      "filename": "fabric-api-0.141.3+1.21.11.jar",
+      "primary": true,
+      "size": 2412693,
+      "file_type": null
+    },
+    {
+      "id": "zBR2r3H9",
+      "hashes": {
+        "sha1": "af9caac1081738b5c682cd8cd72ee4644cce9607",
+        "sha512": "89aac07146c8204e705662010589c60b4e8fdf07cabc254e5901116edc95da40448d4a49abfdf179883512c83c7909b7ba02e767cde49cb44b69e1e58c793041"
+      },
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/sbE6e5Gh/balm-fabric-1.21.11-21.11.6.jar",
+      "filename": "balm-fabric-1.21.11-21.11.6.jar",
+      "primary": true,
+      "size": 861882,
+      "file_type": null
+    },
+    {
+      "id": "I6nB8hGc",
+      "hashes": {
+        "sha512": "2ea984ec170098ff7473ccbabf3b9274c26c563b84e5708639f86c2761d29deb08cca02fe84c7c40c1404b6f0da9e67aafe6782f8fa7533fe4190201af724dc4",
+        "sha1": "5aa90650606a2970e4eedc6c83fdeafe6088a0bd"
+      },
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/eK2mcF5B/waystones-fabric-1.21.11-21.11.8.jar",
+      "filename": "waystones-fabric-1.21.11-21.11.8.jar",
+      "primary": true,
+      "size": 932677,
+      "file_type": null
+    },
+    {
+      "id": "30329BM0",
+      "hashes": {
+        "sha512": "8790be4aa5af58acf4080f88204c6a0558d99780687d9c54d1827960dd6b49a23da9e3e14e680cb4636f58495c19f317d2f445460990b132e05056d1cedccc3b",
+        "sha1": "4cb5a1d9121f7b1cd03fd17e901c002ba9cac62b"
+      },
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/avSqR3vF/xaerominimap-fabric-1.21.11-25.3.10.jar",
+      "filename": "xaerominimap-fabric-1.21.11-25.3.10.jar",
+      "primary": true,
+      "size": 2151166,
+      "file_type": null
+    },
+    {
+      "id": "lQ61hFBL",
+      "hashes": {
+        "sha512": "8354602f8be0ba85d017096d5de871cea0062fb126b71c4f237d2d047b99f7b93e79a08357917c41d3cc80a0d29075ce2212ac4e7902828fc65e8913c619b092",
+        "sha1": "8c56782923d72208e751689d7edd907e59a04706"
+      },
+      "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/YGHOIQfA/lootr-fabric-1.21.11-1.20.34.101.jar",
+      "filename": "lootr-fabric-1.21.11-1.20.34.101.jar",
+      "primary": true,
+      "size": 1012717,
+      "file_type": null
+    },
+    {
+      "id": "PsqPEoZz",
+      "hashes": {
+        "sha512": "8f455489d4b71069e998568cf4e1450116f4360a4eb481cd89117f629c6883164886cf63ca08ac4fc929dd13d1112152755a6216d4a1498ee6406ef102093e51",
+        "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee"
+      },
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+      "filename": "cloth-config-21.11.153-fabric.jar",
+      "primary": true,
+      "size": 1148427,
+      "file_type": null
+    },
+    {
+      "id": "YCxeOcmk",
+      "hashes": {
+        "sha1": "5baf520ec1e69210ee430a8413a6493cc402764d",
+        "sha512": "acdd14f068a1751ec9e9baa4c6febc1a807a522ada80c2d999abf07e4a5693892fc92497f13043fbb7fc6e04c1eb42fb59a364a6ef813302f60833355a489c2e"
+      },
+      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/33Ei8Thm/owo-lib-0.13.0%2B1.21.11.jar",
+      "filename": "owo-lib-0.13.0+1.21.11.jar",
+      "primary": true,
+      "size": 2254955,
+      "file_type": null
+    },
+    {
+      "id": "hohQ6wNt",
+      "hashes": {
+        "sha1": "09cca41971985fb9e137186bee6f4e23ec42a8f0",
+        "sha512": "fee86a3aca2bbb97f7c45926c1e6c1a5366f6f15242133bfe1a1f55bba8ef0f63dea092da1f61bfebd1ae448a05c2ba94ba61a349aa4ab61d990020d6a855154"
+      },
+      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rJ0Y6xDT/dungeons-and-taverns-v5.1.0.jar",
+      "filename": "dungeons-and-taverns-v5.1.0.jar",
+      "primary": true,
+      "size": 38916351,
+      "file_type": null
+    },
+    {
+      "id": "vCgqaYz6",
+      "hashes": {
+        "sha512": "e3fec3a07fd2a39af287cfa682f531913a6b82af5c23b60a231e8586ed1c5b1d2857f6714fa069315a1d7366c0d148d167178a9531b59629d488eb1cace6c97e",
+        "sha1": "41cd2e142e48a8b6604d85764a6466fe5edb70c3"
+      },
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/G1BvHQDL/geckolib-fabric-1.21.11-5.4.5.jar",
+      "filename": "geckolib-fabric-1.21.11-5.4.5.jar",
+      "primary": true,
+      "size": 822664,
+      "file_type": null
+    },
+    {
+      "id": "DVtt09wt",
+      "hashes": {
+        "sha512": "8e4171672e2631d7e11bdfb543079f3a9c4a7afe6c53478e25ad22f035e64031119543a65a06343c981323a1b7ee5847d6cf41ef1fa3eff10036a8cf180bde82",
+        "sha1": "95995c0abe13cab9f310bb44d925988525f2f382"
+      },
+      "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/8Nzs7ztr/attributefix-fabric-1.21.11-21.11.1.jar",
+      "filename": "attributefix-fabric-1.21.11-21.11.1.jar",
+      "primary": true,
+      "size": 21574,
+      "file_type": null
+    },
+    {
+      "id": "vOFxmIUG",
+      "hashes": {
+        "sha1": "ba448b0b274abd54ad24332055fbb1cdc66e43c0",
+        "sha512": "4643cb5bae5c108eb18fac2270e85ea0adcfe5201f188dcd26a1c14129b7dde7c89bfadf9ab6fe0a048b7e05f39217e969548c1f5c1d212c86abbaec7203a3c3"
+      },
+      "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/fgUon9A6/prickle-fabric-1.21.11-21.11.1.jar",
+      "filename": "prickle-fabric-1.21.11-21.11.1.jar",
+      "primary": true,
+      "size": 87236,
+      "file_type": null
+    },
+    {
+      "id": "YNdb0eML",
+      "hashes": {
+        "sha1": "2a5b25b4f3b48d5d08522b544c75b10c16a761c7",
+        "sha512": "65fed1a464034585adf664a33de17c06fb78c76c10b9042cf04d7c66fcc52f4401518af15d83a0f19b1735223b566e80488b4d33af5aa053b28c88e806f1867b"
+      },
+      "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/zwCdgCLz/RoughlyEnoughItems-21.11.814-fabric.jar",
+      "filename": "RoughlyEnoughItems-21.11.814-fabric.jar",
+      "primary": true,
+      "size": 2469337,
+      "file_type": null
+    },
+    {
+      "id": "j4FPrLJK",
+      "hashes": {
+        "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
+        "sha512": "7ca532844a0ed3d35e8515e13d1e84f8eadfceaae93281b79ad6b4dac253f4634e3dfcc7592f9543871dec117e1a3092c196ba5eae33735162de223be19dc4ad"
+      },
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
+      "filename": "architectury-19.0.1-fabric.jar",
+      "primary": true,
+      "size": 568474,
+      "file_type": null
+    },
+    {
+      "id": "gH3opO7I",
+      "hashes": {
+        "sha512": "c3f7f8e3f74aa8e20b537bc255b4b196fdb1b1cc714e6b6d4775251b01a810aaa9704845a525f96461db80eca8d0da1ec79fb2c24c95e5335b9c15a056219ddb",
+        "sha1": "17ba8126f1953fc9eb059ca8c82b5b72b3f907d3"
+      },
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AAR2TTo3/chat_heads-1.2.1-fabric-1.21.11.jar",
+      "filename": "chat_heads-1.2.1-fabric-1.21.11.jar",
+      "primary": true,
+      "size": 92750,
+      "file_type": null
+    },
+    {
+      "id": "7Z1ARhmu",
+      "hashes": {
+        "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
+        "sha512": "507ab10b7938dcd14d33121b8462649bdbe575cef248e917dfdf7566078ab5d0195ca1add95eae4863de3f652eb56db0a8669a67d5b5344e094d086f9dab5a08"
+      },
+      "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
+      "filename": "placeholder-api-2.8.2+1.21.10.jar",
+      "primary": true,
+      "size": 268662,
+      "file_type": null
+    },
+    {
+      "id": "vpZk8j0m",
+      "hashes": {
+        "sha512": "27cc0fd2c9426e8eba70f96b9d31e6dd756819cc44338b8948167e93fb6e22416d10d2e8c63f7c689c2aca2c27bdb6864d974b92e3f79b3027d23eee1bfbdb2e",
+        "sha1": "632c7565ba0fbc033aa4574e1ae6919f277fe03b"
+      },
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/JWQVh32x/modmenu-17.0.0-beta.2.jar",
+      "filename": "modmenu-17.0.0-beta.2.jar",
+      "primary": true,
+      "size": 1115052,
+      "file_type": null
+    },
+    {
+      "id": "NE5uODtA",
+      "hashes": {
+        "sha1": "9a4dd8518bbad9e6be9edd443cfc6da74b1bb26b",
+        "sha512": "ca4d3c2a37c1206ac40a825f528dafeaae98bc7cb4d17f1e8b2d427df8b4b106790baaeda60a7d7462784661508fb8278074731a67224bba994a6b52672790a6"
+      },
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/TSXvi2yD/iris-fabric-1.10.6%2Bmc1.21.11.jar",
+      "filename": "iris-fabric-1.10.6+mc1.21.11.jar",
+      "primary": true,
+      "size": 2805791,
+      "file_type": null
+    },
+    {
+      "id": "gO6EFIjF",
+      "hashes": {
+        "sha1": "ff88b8f04532202d2dcc7d4919bae648b1d7fbe8",
+        "sha512": "3eb12225c10825d4887c2e915b2a331be09b6eac4a75ccc320767542c92633d11bc6a8a63cb2b28bbf062c102e4ec50000d3082892e00328044d6225b1836f65"
+      },
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/CkZVhVE0/xaeroworldmap-fabric-1.21.11-1.40.11.jar",
+      "filename": "xaeroworldmap-fabric-1.21.11-1.40.11.jar",
+      "primary": true,
+      "size": 1434362,
+      "file_type": null
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.21.11",
+    "fabric-loader": "0.18.4"
+  }
+}

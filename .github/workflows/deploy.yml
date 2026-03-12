@@ -1,4 +1,4 @@
-name: Build Modpack Zip
+name: Build Modpack mrpack
 
 on:
   push:
@@ -15,27 +15,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create zip archive
+      - name: Create mrpack archive
         run: |
-          zip -r modpack.zip . \
+          zip -r modpack.mrpack . \
             -x "*.git*" \
                ".github/*" \
-               "modpack.zip"
+               "modpack.mrpack"
 
       - name: Create or Update Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Create the release if it doesn't exist, or just use it if it does
           gh release delete latest --yes || true
           git tag -d latest || true
           git tag latest
           git push origin latest --force
 
-          # Upload modpack.zip (default binary type)
-          # Upload manifest.json with EXPLICIT application/json type
           gh release create latest \
             --title "Latest Modpack Build" \
             --notes "Automated build of the modpack." \
-            "modpack.zip" \
-            "manifest.json#application/json"
+            "modpack.mrpack#application/zip" \
+            "modrinth.index.json#application/json"
