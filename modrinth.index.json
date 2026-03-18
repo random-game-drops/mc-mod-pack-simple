@@ -373,17 +373,6 @@
       "fileSize": 23041447
     },
     {
-      "path": "mods/reliable-recipe-viewer-6.6.2+1.21.11-fabric.jar",
-      "hashes": {
-        "sha1": "b057d1d3c0cd8312cc141f5b16b5e799cbc7cc11",
-        "sha512": "75f1adbf7c279192f00958602a6fa41db8fdf8449c677d04a1807d077e3b797c35c07a0918166b60fdbaf2cb5258dccfdaf1c189ff012999445c99be213e4e2d"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/5VolwT6c/versions/5rHKvHSm/reliable-recipe-viewer-6.6.2%2B1.21.11-fabric.jar"
-      ],
-      "fileSize": 543072
-    },
-    {
       "path": "mods/FarmersDelight-1.21.11-3.4.9+refabricated.jar",
       "hashes": {
         "sha1": "7c51a74bed32f4c55a22cc87690109c9379c682e",
@@ -415,6 +404,61 @@
         "https://cdn.modrinth.com/data/yn9u3ypm/versions/rZeFZ5ip/graves-3.10.2%2B1.21.11.jar"
       ],
       "fileSize": 825025
+    },
+    {
+      "path": "mods/SkinsRestorer-Mod-Fabric-15.11.0.jar",
+      "hashes": {
+        "sha1": "689c31c7d1a5a3c99869b5983292b20d9eaf701a",
+        "sha512": "347388ff1f9989c294945dca49d0a735092e4cd64291950d370f0773fed4fe05663121d0c0f0f9f34c90542077f2828793925a930d21426992588cb13f1cf094"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TsLS8Py5/versions/MD0HyeAx/SkinsRestorer-Mod-Fabric-15.11.0.jar"
+      ],
+      "fileSize": 9527828
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+      "hashes": {
+        "sha1": "20b2200961e11994595ebb2d5f6624f232d13751",
+        "sha512": "498672ee88cf703685026e74f82a85e30d980c62a1c8cc14744cb73add09a857db8d585b405e19f558ec490613642750eb00e09d8ef5a3c9578bc52b53568d51"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9%2Bkotlin.2.3.10.jar"
+      ],
+      "fileSize": 7642216
+    },
+    {
+      "path": "mods/libIPN-fabric-1.21.11-6.6.2.jar",
+      "hashes": {
+        "sha1": "bf7764431b252d2de415cb5c017d9645873b008e",
+        "sha512": "d3e92510803caf362f46f7bc6b41c0ea3b9746f7d2bd6fa5d9c4cead2260644d6e93cd20c55e0291a3a2bd760d0595a790d15c5bd140c2df0a42cba11db0cb0c"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/onSQdWhM/versions/NfmfXRhx/libIPN-fabric-1.21.11-6.6.2.jar"
+      ],
+      "fileSize": 645861
+    },
+    {
+      "path": "mods/InventoryProfilesNext-fabric-1.21.11-2.2.4.jar",
+      "hashes": {
+        "sha1": "60931b94f84a0e097a3f135a66fce6f92fcb6c04",
+        "sha512": "aa38428825484fbd163a1e30461a4d64b2f8e8369c4d9d92a5da067db43eb9252538518f268aabf0e350b40b6f2dee0a10f938a01817df95b54e209606565dbe"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/O7RBXm3n/versions/3ArX5pVF/InventoryProfilesNext-fabric-1.21.11-2.2.4.jar"
+      ],
+      "fileSize": 1322873
+    },
+    {
+      "path": "mods/vinurl-2.3.0+mc1.21.11.jar",
+      "hashes": {
+        "sha1": "db8488fd8db90b0cd7ea820671430eb71c77f765",
+        "sha512": "8d9fae1bf8e9231f37c4125816e601c78f1653bebb32fefae7599f23f748f088831d43785dbb739ac6a28491dbdcb6dff49d4a032b207dfa8f3138dfc1f75538"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5PsMUIsq/versions/2fqfxH7T/vinurl-2.3.0%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 136767
     }
   ]
 }
