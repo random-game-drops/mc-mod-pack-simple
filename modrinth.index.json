@@ -503,6 +503,17 @@
         "https://cdn.modrinth.com/data/RJ4U0qmn/versions/Tp58o80s/serversidehorror-1.21.11-fabric-4.1.jar"
       ],
       "fileSize": 389184
+    },
+    {
+      "path": "mods/deimos-1.21.11-fabric-2.5.jar",
+      "hashes": {
+        "sha1": "ef4feb011100f7c9c301e5389157596538723dfe",
+        "sha512": "cbbcd6bc10e30c889d9faa29cd04c8889a60a0d0133d3777beff0235ea74f4aceef97929919ad794983f7aecc31abbcdb495fa232117457f5e5135eb3ceca650"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WQaxNzFg/versions/X6igL7Ew/deimos-1.21.11-fabric-2.5.jar"
+      ],
+      "fileSize": 50010
     }
   ]
 }
