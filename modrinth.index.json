@@ -459,6 +459,50 @@
         "https://cdn.modrinth.com/data/5PsMUIsq/versions/2fqfxH7T/vinurl-2.3.0%2Bmc1.21.11.jar"
       ],
       "fileSize": 136767
+    },
+    {
+      "path": "mods/EasyShulkerBoxes-v21.11.0-mc1.21.11-Fabric.jar",
+      "hashes": {
+        "sha1": "69e9fd6025c323ff9f1e02bbb20a8eac44b067b1",
+        "sha512": "10e2f627b5ebf6f32a198fd8cf9977fc024aa3f2d2e96122dfebf23b1b72846e535ccd135373a1d832a5c48150c48f2d03804dcc939f9b607de4fcae2af40fdf"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gA5euN8S/versions/bYZtnl61/EasyShulkerBoxes-v21.11.0-mc1.21.11-Fabric.jar"
+      ],
+      "fileSize": 1036581
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.11.11-mc1.21.11-Fabric.jar",
+      "hashes": {
+        "sha1": "d3921f83227eeb0382b3661fdec677bee9cb0f20",
+        "sha512": "055feb02f50ef4622595a5670b4c477f0ad1cbe43241e7629746a5732d161d42cd08d736d3d326e07b90fe56758bdb44772b26d99dc6efdd813e7e0eebcc4085"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/O1SlsQzW/PuzzlesLib-v21.11.11-mc1.21.11-Fabric.jar"
+      ],
+      "fileSize": 1122576
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "hashes": {
+        "sha1": "61aa1b5fafd75afc44552d0213cac39bc938bc2d",
+        "sha512": "28791c992d613da14b8685505d3ef632ed53b5f1e1d517f0b41677d10f8419f192dfbde991308df6cda5d0f113c0aa8fc18ecf4a0834029403b16d2f68dc52d6"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ohNO6lps/versions/uXrWPsCu/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+      ],
+      "fileSize": 598009
+    },
+    {
+      "path": "mods/serversidehorror-1.21.11-fabric-4.1.jar",
+      "hashes": {
+        "sha1": "d3d9a9656d0709d49f6d0e895435527ee029ffb2",
+        "sha512": "48b00e5353c70ee00199181ec2770003ba4a544d025308503770299909099b0128abc6688b41bf9fa37607f917ba71585cc9c01dd765a0505bd0d474c09c3f1c"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RJ4U0qmn/versions/Tp58o80s/serversidehorror-1.21.11-fabric-4.1.jar"
+      ],
+      "fileSize": 389184
     }
   ]
 }
