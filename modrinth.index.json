@@ -494,15 +494,15 @@
       "fileSize": 598009
     },
     {
-      "path": "mods/serversidehorror-1.21.11-fabric-4.1.jar",
+      "path": "mods/trade-cycling-fabric-1.21.11-1.0.20.jar",
       "hashes": {
-        "sha1": "d3d9a9656d0709d49f6d0e895435527ee029ffb2",
-        "sha512": "48b00e5353c70ee00199181ec2770003ba4a544d025308503770299909099b0128abc6688b41bf9fa37607f917ba71585cc9c01dd765a0505bd0d474c09c3f1c"
+        "sha1": "18e2200e622c9c76fa54d37113de2b16f175d195",
+        "sha512": "f58df458b9c2d65c7067e514dd38f115c9c54b6321f1c02e7ba7059655ccf1f7763dbfc91e48361404100d4213b5203e0e09b05a5ff605654191ba970980214f"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/RJ4U0qmn/versions/Tp58o80s/serversidehorror-1.21.11-fabric-4.1.jar"
+        "https://cdn.modrinth.com/data/qpPoAL6m/versions/gjL3kDvK/trade-cycling-fabric-1.21.11-1.0.20.jar"
       ],
-      "fileSize": 389184
+      "fileSize": 599757
     },
     {
       "path": "mods/deimos-1.21.11-fabric-2.5.jar",
@@ -514,6 +514,39 @@
         "https://cdn.modrinth.com/data/WQaxNzFg/versions/X6igL7Ew/deimos-1.21.11-fabric-2.5.jar"
       ],
       "fileSize": 50010
+    },
+    {
+      "path": "mods/zoomify-2.15.2+1.21.11.jar",
+      "hashes": {
+        "sha1": "e1f738a9026e9f087d96861935f994b010b8131a",
+        "sha512": "de9d6097445175f6ef3e93475136fd67d29fc14fd26a6f19e63714efa6cf0961af5d270a95b65c4099a38517c3f91815fe4a1aa21b0acd84230398be2a6e3e24"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/w7ThoJFB/versions/gI5KZI8V/zoomify-2.15.2%2B1.21.11.jar"
+      ],
+      "fileSize": 873443
+    },
+    {
+      "path": "mods/Jade-1.21.11-Fabric-21.1.4.jar",
+      "hashes": {
+        "sha1": "1b96ade56458216e15338c5eb7526e0e730c3eb2",
+        "sha512": "ea347b48bb5afbec79d1f717dcc4c6a4a19abb65b604136dbf016a17c32a6ff297921b21b5f58e6af76edef7c9ef21a1b8df1cd76d6436bb1e1221449551f8ec"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nvQzSEkH/versions/sGI08gfW/Jade-1.21.11-Fabric-21.1.4.jar"
+      ],
+      "fileSize": 945827
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+      "hashes": {
+        "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+        "sha512": "392db7d471030cca27483ecf58c626a14cd73d71a18afe6d4173c6b030948b8a925b36e708d4cc2c897dfa3f20a7f23b999fc18aa6d36c156da29037601153ac"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 1126948
     }
   ]
 }
